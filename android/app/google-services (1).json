@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718539079418",
+    "project_id": "routez-61de4",
+    "storage_bucket": "routez-61de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718539079418:android:b4cd8895ea674823c31343",
+        "android_client_info": {
+          "package_name": "com.example.routez_dart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718539079418-067a0jad581d7r73egjiotc3kk9q1pad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZq4Jiu-jCR_am92ODKWaAcJGOWqTpjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718539079418-067a0jad581d7r73egjiotc3kk9q1pad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
