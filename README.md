@@ -8,4 +8,3 @@ App images:
 ![notification](https://github.com/raj-26/Bus-Tracking-App/assets/125812882/1c62f506-cde5-48c5-a4f4-f804bf596614)
 
 
-
